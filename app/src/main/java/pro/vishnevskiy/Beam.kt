@@ -28,6 +28,4 @@ class Beam (private val context: Context) {
             Log.d("123123", "The exception is $ex")
         }
     }
-
-
 }
