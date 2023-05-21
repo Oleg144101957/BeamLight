@@ -34,7 +34,6 @@ class MainActivity : AppCompatActivity() {
         binding.beamLayout.setOnClickListener {
             //In case on click layout
             collectStatistic.pushDataToFirebaseOnClickLayout()
-
         }
     }
 
