@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LightBeam</string>
+    <string name="button_turn_on_and_turn_off_the_light">Button turn On and turn Off the light</string>
+</resources>
